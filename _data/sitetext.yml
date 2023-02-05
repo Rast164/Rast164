@@ -65,7 +65,8 @@ en: &DEFAULT_EN
   team:
     title: "Контакты"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: ## Тел.: +79000000000    
+             ## mail: 111111@mail.ru
     section: team
     people:
       - name: "Алексей Расторгуев"
@@ -80,33 +81,11 @@ en: &DEFAULT_EN
              icon: "fab fa-instagram"
            - url: https://vk.com/alexeyrastorguev
              icon: "fab fa-vk"
-     
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: ""
     social:
-      - url: https://t.me/AlexeyRast
-        icon: "fab fa-telegram"
-      - url: https://github.com/Rast164
-        icon: "fab fa-github"
-      - url: https://www.instagram.com/rast64b/
-        icon: "fab fa-instagram"
-      - url: https://vk.com/alexeyrastorguev
-        icon: "fab fa-vk"
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
