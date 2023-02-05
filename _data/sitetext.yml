@@ -1,19 +1,19 @@
 en: &DEFAULT_EN
   header:
-    title: Мне бы хотелось посмотреть, как будет выглядеть это поле, если тут разместить небольшую гору текста. Не поплывет ли что куда и т. п. Я надеюсь, что все будет выглядеть неплохо
+    title: Нужно придумать какое-то вступление о себе
     text: Люблю чопу
     button: Поехали
     buttonlink: "#portfolio"
 
 portfolio:
     title: "Портфолио"
-    text: "Что есть - то есть"
+    text: "Тут будут примеры работ"
     section: portfolio
     closebutton: "Закрыть"
 
 services:
     title: "Навыки"
-    text: "текст под сервисом"
+    text: "Тут будут мои навыки"
     section: services
     list:
       - title: "Дурак"
@@ -28,14 +28,14 @@ services:
 
   timeline:
     title: "Достижения"
-    text: "Lorem ipsum timeline"
+    text: "тут будут достижения, которые я достиг"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Украл с завода пузырь спирта"
+        year: "2012"
+        desc: "Было сложно, спирт охраняли несколько человек круглосуточно. Притворился айтишником - одел очки и зассаный пиджак, пропустили, спирт вынес внутри себя"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
