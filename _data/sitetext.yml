@@ -5,13 +5,13 @@ en: &DEFAULT_EN
     button: Поехали
     buttonlink: "#portfolio"
 
-portfolio:
+  portfolio:
     title: "Портфолио"
     text: "Тут будут примеры работ"
     section: portfolio
     closebutton: "Закрыть"
 
-services:
+  services:
     title: "Навыки"
     text: "Тут будут мои навыки"
     section: services
@@ -86,7 +86,6 @@ services:
     legal: ""
     social: "Создано с помощью [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme-starter)"
            
-
 en-US:
   <<: *DEFAULT_EN
 en-CA:
