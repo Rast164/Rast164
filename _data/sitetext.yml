@@ -1,32 +1,33 @@
 en: &DEFAULT_EN
   header:
     title: Мне бы хотелось посмотреть, как будет выглядеть это поле, если тут разместить небольшую гору текста. Не поплывет ли что куда и т. п. Я надеюсь, что все будет выглядеть неплохо
-    text: 111
+    text: Люблю чопу
     button: Поехали
-    buttonlink: "#services"
-  services:
-    title: "Сервис"
+    buttonlink: "#portfolio"
+
+portfolio:
+    title: "Портфолио"
+    text: "Что есть - то есть"
+    section: portfolio
+    closebutton: "Закрыть"
+
+services:
+    title: "Навыки"
     text: "текст под сервисом"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Дурак"
+        desc: "Моя любимая карточная игра"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Алчный"
+        desc: "Денег много не бывает"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Пьяница"
+        desc: "Ещё одна любимая карточная игра"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-
   timeline:
-    title: "История"
+    title: "Достижения"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -57,7 +58,7 @@ en: &DEFAULT_EN
     end: "что будет дальше?"
 
   about:
-    title: "About Us"
+    title: "About"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
