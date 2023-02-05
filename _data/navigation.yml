@@ -12,3 +12,23 @@ en: &DEFAULT_EN
       section: team
     - title: "Контакты"
       section: contact
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  nav:
+    - title: "Servicios"
+      section: servicios
+    - title: "Portafolio"
+      section: portafolio
+    - title: "Sobre Nosotros"
+      section: nosotros
+    - title: "Cronología"
+      section: cronologia
+    - title: "Equipo"
+      section: equipo
+    - title: "Contáctenos"
+      section: contacto
+
+es-ES:
+  <<: *DEFAULT_ES
