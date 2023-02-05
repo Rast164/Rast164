@@ -26,7 +26,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "История"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -54,7 +54,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "что будет дальше?"
 
   about:
     title: "About Us"
