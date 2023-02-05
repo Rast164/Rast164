@@ -18,13 +18,13 @@ en: &DEFAULT_EN
     list:
       - title: "Дурак"
         desc: "Моя любимая карточная игра"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-cards #find more at https://fontawesome.com/icons
       - title: "Алчный"
         desc: "Денег много не бывает"
-        icon: fas fa-laptop
+        icon: fas fa-dollar-sign
       - title: "Пьяница"
         desc: "Ещё одна любимая карточная игра"
-        icon: fab fa-markdown
+        icon: fab fa-cards
 
   timeline:
     title: "Достижения"
