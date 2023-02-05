@@ -65,8 +65,7 @@ en: &DEFAULT_EN
   team:
     title: "Контакты"
     text: ""
-    subtext: ## Тел.: +79000000000    
-             ## mail: 111111@mail.ru
+    subtext: "## Тел.: +79000000000 ## mail: 111111@mail.ru"
     section: team
     people:
       - name: "Алексей Расторгуев"
@@ -84,7 +83,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: ""
-    social:
+    social: ""
 
 en-US:
   <<: *DEFAULT_EN
