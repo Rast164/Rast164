@@ -4,8 +4,8 @@ en: &DEFAULT_EN
     text: It's Nice To Meet You
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Сервис"
+    text: "текст под сервисом"
     section: services
     list:
       - title: "E-Commerce"
