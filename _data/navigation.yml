@@ -1,26 +1,17 @@
 en: &DEFAULT_EN
   nav:
-    - title: "Сервич"
-      section: services
+#   - title: "Сервис"
+#     section: services
     - title: "Портфолио"
       section: portfolio
     - title: "Обо Мне"
       section: about
     - title: "История"
       section: timeline
-    - title: "Команда"
-      section: team
+#   - title: "Команда"
+#     section: team
     - title: "Контакты"
       section: contact
-
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
 
 # Spanish
 # -------
@@ -41,6 +32,4 @@ es: &DEFAULT_ES
     - title: "Fuente de la plantilla"
       url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
-  <<: *DEFAULT_ES
-es-CO:
   <<: *DEFAULT_ES
