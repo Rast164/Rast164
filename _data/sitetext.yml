@@ -83,7 +83,8 @@ en: &DEFAULT_EN
 
   footer:
     legal: ""
-    social: ""
+    social: Создано с помощью [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme-starter)
+           
 
 en-US:
   <<: *DEFAULT_EN
