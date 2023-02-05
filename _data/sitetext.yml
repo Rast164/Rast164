@@ -65,11 +65,11 @@ en: &DEFAULT_EN
   team:
     title: "Контакты"
     text: ""
-    subtext: "#### тел.: +79000000000     mail: 111111@mail.ru"
+    subtext: ""
     section: team
     people:
       - name: "Алексей Расторгуев"
-        role: "без роли"
+        role: ""
         image: assets/img/myphoto.jpg
         social:
            - url: https://t.me/AlexeyRast
@@ -83,7 +83,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: ""
-    social: Создано с помощью [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme-starter)
+    social: "Создано с помощью [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme-starter)"
            
 
 en-US:
