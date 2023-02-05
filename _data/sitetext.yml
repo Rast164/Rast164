@@ -140,7 +140,10 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://www.instagram.com/rast64b/
         icon: "fab fa-instagram"
-      - url: <a href="mailto:rastorguev.public@gmail.com"/a>  
+      - url: <a href="mailto:rastorguev.public@gmail.com"></a>
+        icon: "fab fa-envelope"
+      - url: https://t.me/AlexeyRast
+        icon: "fab fa-telegram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
