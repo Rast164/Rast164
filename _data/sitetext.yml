@@ -65,7 +65,9 @@ en: &DEFAULT_EN
   team:
     title: "Контакты"
     text: ""
-    subtext: "## Тел.: +79000000000 ## mail: 111111@mail.ru"
+    subtext: "##№№ тел.: +79000000000 
+    
+              ##№№ mail: 111111@mail.ru"
     section: team
     people:
       - name: "Алексей Расторгуев"
