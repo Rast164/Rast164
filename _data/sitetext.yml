@@ -136,13 +136,9 @@ en: &DEFAULT_EN
     social:
       - url: https://vk.com/alexeyrastorguev
         icon: "fab fa-vk"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: https://github.com/Rast164
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/rast64b/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
