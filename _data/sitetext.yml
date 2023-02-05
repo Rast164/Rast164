@@ -135,16 +135,14 @@ en: &DEFAULT_EN
   footer:
     legal: ""
     social:
-      - url: https://vk.com/alexeyrastorguev
-        icon: "fab fa-vk"
+      - url: https://t.me/AlexeyRast
+        icon: "fab fa-telegram"
       - url: https://github.com/Rast164
         icon: "fab fa-github"
       - url: https://www.instagram.com/rast64b/
         icon: "fab fa-instagram"
-      - url: <a href="mailto:rastorguev.public@gmail.com"></a>
-        icon: "fab fa-envelope"
-      - url: https://t.me/AlexeyRast
-        icon: "fab fa-telegram"
+      - url: https://vk.com/alexeyrastorguev
+        icon: "fab fa-vk"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
