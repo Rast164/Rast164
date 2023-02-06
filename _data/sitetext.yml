@@ -1,10 +1,16 @@
 en: &DEFAULT_EN
   header:
     title: У меня нет крутого портфолио, так как я не работаю техническим писателем. Создавать какие-то pet-документы  - это "писать в стол" (их никто никогда не прочтет), и на это нужно много времени.
-    text: Люблю чопу
+    text: ""
     button: Поехали
-    buttonlink: "#portfolio"
+    buttonlink: "#about"
 
+  about:
+    title: "About"
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: about
+    
   portfolio:
     title: "Портфолио"
     text: "Тут будут примеры работ"
@@ -56,12 +62,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "что будет дальше?"
-
-  about:
-    title: "About"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   team:
     title: "Контакты"
