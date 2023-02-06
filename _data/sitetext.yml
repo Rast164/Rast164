@@ -8,7 +8,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     text: "для чего все это"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "В своем резюме я изложил все кратко, без воды и обмана, чтобы сэкономить время тех, кто читает CV бегло по hard skills и релевантному опыту. Но на этой странице я буду решать другие задачи"
     section: about
     
   portfolio:
